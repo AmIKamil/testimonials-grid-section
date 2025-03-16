@@ -1,10 +1,6 @@
 # Frontend Mentor - Testimonials grid section
 
-Live page: https://amikamil.github.io/testimonials-grid-section/
-
-## Preview:
-
-![webpage](https://amikamil.github.io/testimonials-grid-section/)
+**Live page:** https://amikamil.github.io/testimonials-grid-section/
 
 ## The challenge
 
