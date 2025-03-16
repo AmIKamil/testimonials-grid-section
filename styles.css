@@ -170,5 +170,10 @@ article blockquote{
         flex-direction: column;
         margin: 4rem 2rem;
     }
+ 
+    .quotation{
+        color: var(--Grey100);
+        background-image: none;
+    }
 }
 
