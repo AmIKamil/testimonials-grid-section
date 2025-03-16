@@ -48,7 +48,7 @@ html, body{
 
 .quotation{
     color: var(--Grey100);
-    background-image: url('../images/bg-pattern-quotation.svg');
+    background-image: url('images/bg-pattern-quotation.svg');
     background-repeat: no-repeat;
     background-color: var(--Purple500);
     position: relative;
